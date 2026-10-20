@@ -1,6 +1,6 @@
 # SPEC 01 — Playable Arkanoid MVP
 
-> **Status:** Draft
+> **Status:** Approved
 > **Depends on:** none
 > **Date:** 2026-10-19
 > **Objective:** Build a single-level, keyboard-controlled Arkanoid clone on a `<canvas>` that can be played start to finish in the browser, with score, lives, sounds, brick explosions and pause.
