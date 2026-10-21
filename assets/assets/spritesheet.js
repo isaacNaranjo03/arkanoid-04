@@ -45,7 +45,7 @@ function loadSpritesheet( cb ) {
     ssCallbacks.forEach( f => f() );
   };
   rawImg.onerror = () => console.error( 'Failed to load spritesheet' );
-  rawImg.src = 'assets/spritesheet-breakout.png';
+  rawImg.src = 'assets/assets/spritesheet-breakout.png';
 }
 
 function drawFrame( ctx, frame, x, y, w, h ) {
